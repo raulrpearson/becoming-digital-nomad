@@ -1,0 +1,16 @@
+{
+  "name": "becoming-digital-nomad",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mdx-deck": "^3.0.13"
+  },
+  "scripts": {
+    "start": "mdx-deck becoming-digital-nomad.mdx"
+  },
+  "keywords": [],
+  "author": "Raúl R. Pearson <raulrpearson@protonmail.com>",
+  "license": "ISC"
+}
